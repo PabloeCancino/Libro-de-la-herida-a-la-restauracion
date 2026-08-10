@@ -1,0 +1,16 @@
+[book]
+title = "De la herida a la restauración"
+authors = ["Dr. Pablo Eduardo Cancino Marentes"]
+description = "Una ruta práctica para sanar emocionalmente: doce heridas del alma, el modelo de Jesús, Varón de Dolores, y el camino del duelo hacia la restauración"
+language = "es"
+src = "src"
+
+[output.html]
+default-theme = "light"
+preferred-dark-theme = "navy"
+git-repository-url = "https://github.com/PabloeCancino/de-la-herida-a-la-restauracion"
+edit-url-template = "https://github.com/PabloeCancino/de-la-herida-a-la-restauracion/edit/main/{path}"
+
+[output.html.search]
+enable = true
+limit-results = 20
