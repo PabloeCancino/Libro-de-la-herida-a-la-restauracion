@@ -682,4 +682,4 @@ El justo cae. Siete veces. Y la séptima vez, también se levanta.
 *Versión 1.0 — Sección 12: El Fracaso — Grupo 3 (Autoridad)*
 *Cuadernillo «De la herida a la restauración: Una ruta práctica para sanar emocionalmente»*
 *Siguiendo la Estructura v2.0 aprobada (Armonización MCC1-MCC2-MCC3)*
-*Abril 2026*
+*Diciembre 2024*

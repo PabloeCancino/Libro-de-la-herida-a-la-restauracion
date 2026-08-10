@@ -470,4 +470,4 @@ Firma: _______________________________
 
 *Guía del Facilitador — Cuadernillo «De la herida a la restauración: Una ruta práctica para sanar emocionalmente»*
 *Siguiendo la Estructura v2.0 aprobada (Armonización MCC1-MCC2-MCC3)*
-*Serie REDIME — Abril 2026*
+*Serie REDIME — Diciembre 2024*

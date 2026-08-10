@@ -655,4 +655,4 @@ Eres el eslabón donde la historia puede cambiar. No por tus propias fuerzas, si
 *Versión 1.0 — Sección 0: Preámbulo — La Herida Generacional*
 *Cuadernillo «De la herida a la restauración: Una ruta práctica para sanar emocionalmente»*
 *Siguiendo la Estructura v2.0 aprobada (Armonización MCC1-MCC2-MCC3)*
-*Abril 2026*
+*Diciembre 2024*

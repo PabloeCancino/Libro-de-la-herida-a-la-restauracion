@@ -1,6 +1,6 @@
 # Licencia
 
-**De la herida a la restauración** — Dr. Pablo Eduardo Cancino Marentes — Agosto 2026
+**De la herida a la restauración** — Dr. Pablo Eduardo Cancino Marentes — Diciembre 2024
 
 Esta obra está bajo una licencia **Creative Commons Atribución-NoComercial-SinDerivadas 4.0 Internacional (CC BY-NC-ND 4.0)**.
 

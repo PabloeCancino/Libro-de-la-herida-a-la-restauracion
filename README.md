@@ -2,7 +2,7 @@
 
 ### Una ruta práctica para sanar emocionalmente
 
-**Dr. Pablo Eduardo Cancino Marentes — Agosto 2026**
+**Dr. Pablo Eduardo Cancino Marentes — Diciembre 2024**
 
 ---
 
@@ -48,7 +48,7 @@ En resumen: puedes leer, descargar y compartir el libro completo citando la auto
 
 ## Cómo citar
 
-> Cancino Marentes, P. E. (2026). *De la herida a la restauración: Una ruta práctica para sanar emocionalmente*. Manuscrito publicado en GitHub.
+> Cancino Marentes, P. E. (2024). *De la herida a la restauración: Una ruta práctica para sanar emocionalmente*. Manuscrito publicado en GitHub. https://pabloecancino.github.io/de-la-herida-a-la-restauracion
 
 ## Contacto
 

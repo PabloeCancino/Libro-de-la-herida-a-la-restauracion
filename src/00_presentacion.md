@@ -5,7 +5,7 @@
 **Versión con sustento bíblico para la aplicación en el contexto cristiano**
 
 **Dr. Pablo Eduardo Cancino Marentes**
-Junio 2025
+Diciembre 2024
 
 ---
 
@@ -60,7 +60,7 @@ Se trata de abrir un espacio para recordar que **tu historia —aun con cicatric
 Y quizás, uno de los más revolucionarios de nuestro tiempo.
 
 **Dr. Pablo Eduardo Cancino Marentes**
-Tepic, Nay. - junio de 2025
+Tepic, Nay. - diciembre de 2024
 
 ---
 
@@ -99,7 +99,7 @@ Sanar es vivir.
 Bienvenido al viaje de volver a ti mismo, en los brazos de Aquel que nunca te dejó.
 
 **Dr. Pablo Eduardo Cancino**
-Tepic, Nay. - julio de 2025
+Tepic, Nay. - diciembre de 2024
 
 ---
 
@@ -126,7 +126,7 @@ Cuando a aquel que antaño la ha causado,
 con corazón humilde, lo perdono.
 
 **Pablo Eduardo Cancino Marentes**
-13/junio/2025
+13/diciembre/2024
 
 ---
 
