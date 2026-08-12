@@ -12,6 +12,18 @@ Un cuadernillo de sanidad interior que recorre doce heridas emocionales profunda
 
 El cuadernillo cierra con un capítulo cristológico —«Jesús, Varón de Dolores»— que recorre cómo Cristo experimentó cada una de las doce heridas y respondió a ellas con resiliencia, y con un Epílogo dedicado al duelo como hilo transversal de toda experiencia de pérdida. Un Anexo ofrece una Guía del Facilitador completa para quienes deseen trabajar este material en grupos pequeños.
 
+## Descargas
+
+Cada vez que se actualiza el contenido en `src/`, un flujo de trabajo de GitHub Actions ([`build-ebooks.yml`](.github/workflows/build-ebooks.yml)) recompila el libro completo y publica las tres versiones descargables en la [sección de Releases](https://github.com/PabloeCancino/de-la-herida-a-la-restauracion/releases/tag/ebook) de este repositorio. Los enlaces de abajo apuntan siempre a la versión más reciente:
+
+| Formato | Enlace de descarga | Uso recomendado |
+|---|---|---|
+| 📄 PDF | [libro.pdf](https://github.com/PabloeCancino/de-la-herida-a-la-restauracion/releases/download/ebook/libro.pdf) | Lectura en computadora o para imprimir |
+| 📖 EPUB | [libro.epub](https://github.com/PabloeCancino/de-la-herida-a-la-restauracion/releases/download/ebook/libro.epub) | La mayoría de lectores de libros electrónicos (Apple Books, Google Play Books, etc.) |
+| 📱 Kindle (AZW3) | [libro.azw3](https://github.com/PabloeCancino/de-la-herida-a-la-restauracion/releases/download/ebook/libro.azw3) | Copiar directamente a un dispositivo Kindle por USB |
+
+**Para leerlo en un Kindle:** desde diciembre de 2022, el servicio "Enviar a Kindle" de Amazon acepta archivos EPUB directamente (ya no hace falta convertir a MOBI, formato que Amazon dejó de aceptar en marzo de 2025). La forma más simple es descargar `libro.epub` y enviarlo por correo a tu dirección `@kindle.com`, o usar la app/sitio "Enviar a Kindle". El archivo `libro.azw3` se ofrece como alternativa para quienes prefieren copiar el archivo directamente al dispositivo por cable USB.
+
 ## Índice
 
 | # | Sección |
